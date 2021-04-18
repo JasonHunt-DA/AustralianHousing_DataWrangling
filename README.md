@@ -6,8 +6,8 @@
 
 # Data description
 Source:
-HtAG Holdings,2020,n.d.,AUS Real Estate Sales September 2018 to June 2020,Kaggle,viewed 24 January
-2021,https://www.kaggle.com/htagholdings/aus-real-estate-sales-march-2019-to-april-2020 (https://www.kaggle.com/htagholdings/aus-real-estatesales-march-2019-to-april-2020)
+[HtAG Holdings,2020](https://www.kaggle.com/htagholdings/aus-real-estatesales-march-2019-to-april-2020),AUS Real Estate Sales September 2018 to June 2020,Kaggle,viewed 24 January
+2021,https://www.kaggle.com/htagholdings/aus-real-estate-sales-march-2019-to-april-2020 
 # Brief:
 The data represents the recorded property sales in major Australian Capital Cities [HtAG Holdings,2020]
 # What is contained in the data?
