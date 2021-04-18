@@ -18,4 +18,6 @@ Holdings,2020,Content]
 This dataset is ‘a subset of all the closed sales data’ collected and ‘is segmented by 6 major capital cities - Sydney, Melbourne, Brisbane, Adelaide,
 Perth, Canberra’. Data for rural areas outside of the city boundaries has been excluded. [HtAG Holdings,2020,Content]
 # Why was this data set created?
-This data set has been created ‘to provide the raw sales d
+This data set has been created ‘to provide the raw sales data to the community to assist with impact analysis of COVID-19 on the Australian
+property market’ [HtAG Holdings,2020,Inspiration]
+
